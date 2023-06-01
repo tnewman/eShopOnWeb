@@ -11,6 +11,9 @@ env:
   SUBSCRIPTION-ID: YOUR-SUBS-ID
   WEBAPP-NAME: az400-webapp
 
+permissions:
+  id-token: write
+  contents: read
 
 jobs:
   #Build, test and publish .net web project in repository
