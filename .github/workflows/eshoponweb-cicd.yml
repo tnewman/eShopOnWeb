@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb
   LOCATION: centralus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: ad11f65d-8455-41f2-8484-df172654729d
   WEBAPP-NAME: az400-webapp
 
 permissions:
